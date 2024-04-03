@@ -53,7 +53,8 @@ color: rgb(185, 94, 132);
     .son{
         word-spacing: 20px;
         margin-top: 100px;
-        color: aquamarine;
+        color: brown;
+        background-color: blanchedalmond;
     }
 }
 @media (min-width:769px) and (max-width:1023px){
