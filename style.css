@@ -42,7 +42,7 @@ color: rgb(185, 94, 132);
 @media(min-width:1024px){
     h1{
         text-transform: capitalize;
-        color:rgb(43, 226, 73);
+        color:red;
 
     }
     .box img{
