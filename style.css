@@ -42,7 +42,7 @@ color: rgb(185, 94, 132);
 @media(min-width:1024px){
     h1{
         text-transform: capitalize;
-        color:brown;
+        color:rgb(43, 226, 73);
 
     }
     .box img{
@@ -58,7 +58,7 @@ color: rgb(185, 94, 132);
 }
 @media (min-width:769px) and (max-width:1023px){
     .son p{
-        color: brown;
+        color: rgb(165, 71, 42);
         
     }
     h1{
